@@ -33,4 +33,5 @@ saludo = "buen dia "
 nombre = input("escriba su nombre:")
 texto_final = saludo + nombre
 print(texto_final)
+#xsdxssdadas
 
